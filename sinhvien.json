@@ -1,0 +1,110 @@
+[
+    {
+        "maSinhVien": "CN001",
+        "hoTen": "Tinh",
+        "ngaySinh": "2000-12-12",
+        "dienThoai": "0123456789",
+        "email": "tinh@gmail.com",
+        "diaChi": "A",
+        "nganhHoc": "CN"
+    },
+    {
+        "maSinhVien": "CD001",
+        "hoTen": "B",
+        "ngaySinh": "2011-11-11",
+        "dienThoai": "2",
+        "email": "b@gmail.com",
+        "diaChi": "b",
+        "nganhHoc": "CD"
+    },
+    {
+        "maSinhVien": "CN002",
+        "hoTen": "c",
+        "ngaySinh": "2020-11-13",
+        "dienThoai": "b",
+        "email": "e@gmail.com",
+        "diaChi": "1",
+        "nganhHoc": "CN"
+    },
+    {
+        "maSinhVien": "CD002",
+        "hoTen": "Nguy\u1ec5n V\u0103n A",
+        "ngaySinh": "2012-12-12",
+        "dienThoai": "0123456789",
+        "email": "nguyenvana@gmail.com",
+        "diaChi": "\u0110\u00e0 N\u1eb5ng",
+        "nganhHoc": "CD"
+    },
+    {
+        "maSinhVien": "CN003",
+        "hoTen": "d",
+        "ngaySinh": "1111-11-11",
+        "dienThoai": "012",
+        "email": "email@gmail.com",
+        "diaChi": "d",
+        "nganhHoc": "CN"
+    },
+    {
+        "maSinhVien": "CN004",
+        "hoTen": "e",
+        "ngaySinh": "1212-12-12",
+        "dienThoai": "12",
+        "email": "e@gmail.com",
+        "diaChi": "e",
+        "nganhHoc": "CN"
+    },
+    {
+        "maSinhVien": "CN005",
+        "hoTen": "f",
+        "ngaySinh": "1111-11-11",
+        "dienThoai": "1",
+        "email": "f@gmail.com",
+        "diaChi": "f",
+        "nganhHoc": "CN"
+    },
+    {
+        "maSinhVien": "CN006",
+        "hoTen": "g",
+        "ngaySinh": "1111-11-11",
+        "dienThoai": "1",
+        "email": "g@gmail.com",
+        "diaChi": "g",
+        "nganhHoc": "CN"
+    },
+    {
+        "maSinhVien": "CN007",
+        "hoTen": "h",
+        "ngaySinh": "1111-11-11",
+        "dienThoai": "1",
+        "email": "h@gmail.co",
+        "diaChi": "h",
+        "nganhHoc": "CN"
+    },
+    {
+        "maSinhVien": "CN008",
+        "hoTen": "k",
+        "ngaySinh": "1111-11-11",
+        "dienThoai": "1",
+        "email": "k@gmail.com",
+        "diaChi": "k",
+        "nganhHoc": "CN"
+    },
+    {
+        "maSinhVien": "CN009",
+        "hoTen": "i",
+        "ngaySinh": "1111-11-11",
+        "dienThoai": "1",
+        "email": "i@gmail.com",
+        "diaChi": "i",
+        "nganhHoc": "CN"
+    },
+    {
+        "maSinhVien": "CN010",
+        "hoTen": "j",
+        "ngaySinh": "1111-11-11",
+        "dienThoai": "1",
+        "email": "123@gmail.com",
+        "diaChi": "1",
+        "nganhHoc": "CN"
+    }
+]
